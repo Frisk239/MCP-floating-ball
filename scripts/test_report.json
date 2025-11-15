@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "total_tests": 10,
+    "successful_tests": 6,
+    "failed_tests": 4,
+    "success_rate": "60.0%",
+    "total_duration": "2.20s",
+    "timestamp": "2025-11-15T15:33:51.541477"
+  },
+  "test_results": [
+    {
+      "test": "文件系统结构",
+      "success": false,
+      "message": "目录存在: 0/8, 文件存在: 0/7",
+      "duration": 0.0
+    },
+    {
+      "test": "配置系统加载",
+      "success": false,
+      "message": "配置加载失败: 'NoneType' object has no attribute 'validate_api_keys'",
+      "duration": 0.1683976650238037
+    },
+    {
+      "test": "日志系统",
+      "success": true,
+      "message": "日志记录功能正常",
+      "duration": 0.02694249153137207
+    },
+    {
+      "test": "异常处理系统",
+      "success": true,
+      "message": "异常处理: True, 转换: True, 响应格式: True",
+      "duration": 0.0005624294281005859
+    },
+    {
+      "test": "工具系统",
+      "success": true,
+      "message": "注册器存在: True, 工具数量: 0, 架构导出: True",
+      "duration": 0.007953405380249023
+    },
+    {
+      "test": "控制台代理导入",
+      "success": true,
+      "message": "模块导入成功: True",
+      "duration": 1.5040626525878906
+    },
+    {
+      "test": "Kimi服务提供商",
+      "success": true,
+      "message": "提供商创建: True, 模型信息: True",
+      "duration": 0.48673176765441895
+    },
+    {
+      "test": "DashScope服务提供商",
+      "success": true,
+      "message": "提供商初始化: True, 服务信息: True",
+      "duration": 0.0
+    },
+    {
+      "test": "秘塔搜索服务提供商",
+      "success": false,
+      "message": "提供商初始化: False, 服务信息: True",
+      "duration": 0.0
+    },
+    {
+      "test": "AI服务编排器",
+      "success": false,
+      "message": "AI编排器测试失败: 初始化服务提供商失败: 'NoneType' object has no attribute 'ai'",
+      "duration": 0.0
+    }
+  ]
+}

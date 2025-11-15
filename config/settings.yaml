@@ -1,0 +1,84 @@
+# MCP Floating Ball 应用配置
+
+app:
+  name: "MCP Floating Ball"
+  version: "1.0.0"
+  description: "现代化AI助手项目 - 集成多AI服务的智能助手"
+  debug: false
+
+# AI服务配置
+ai_providers:
+  kimi:
+    model: "kimi-k2-turbo-preview"
+    base_url: "https://api.moonshot.cn/v1"
+    max_tokens: 4096
+    temperature: 0.7
+    timeout: 30
+
+  dashscope:
+    asr_model: "paraformer-realtime-v2"
+    tts_model: "sambert-zhiwei-v1"
+    vision_model: "qwen-vl-plus"
+    timeout: 30
+
+  metaso:
+    timeout: 30
+
+# 语音配置
+voice:
+  sample_rate: 16000
+  channels: 1
+  chunk_size: 1024
+  format: "int16"
+  wake_word:
+    enabled: true
+    sensitivity: 0.5
+    keyword: "hello"
+
+# 视觉配置
+vision:
+  screenshot:
+    format: "png"
+    quality: 95
+    max_size: 1920
+  ocr:
+    languages: ["chi_sim", "eng"]
+    confidence_threshold: 60
+
+# 系统配置
+system:
+  max_concurrent_tasks: 10
+  request_timeout: 30
+  max_retries: 3
+  retry_delay: 1
+
+# 缓存配置
+cache:
+  ttl: 3600  # 1小时
+  max_size: 1000
+  cleanup_interval: 300  # 5分钟
+
+# 文件处理配置
+files:
+  max_file_size: 50MB
+  allowed_extensions: [".txt", ".docx", ".pdf", ".xlsx", ".png", ".jpg", ".jpeg"]
+  temp_dir: "./data/temp"
+
+# 天气配置
+weather:
+  default_city: "北京"
+  update_interval: 1800  # 30分钟
+  forecast_days: 7
+
+# 手势识别配置
+gesture:
+  detection_confidence: 0.5
+  tracking_confidence: 0.5
+  max_hands: 2
+
+# 网页配置
+web:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  timeout: 30
+  max_retries: 3
+  headless: true

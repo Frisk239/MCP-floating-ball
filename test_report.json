@@ -1,0 +1,72 @@
+{
+  "summary": {
+    "total_tests": 10,
+    "successful_tests": 9,
+    "failed_tests": 1,
+    "success_rate": "90.0%",
+    "total_duration": "6.60s",
+    "timestamp": "2025-11-15T16:00:59.777515"
+  },
+  "test_results": [
+    {
+      "test": "文件系统结构",
+      "success": true,
+      "message": "目录存在: 8/8, 文件存在: 7/7",
+      "duration": 0.0
+    },
+    {
+      "test": "配置系统加载",
+      "success": true,
+      "message": "API配置: {'kimi': True, 'dashscope': True, 'metaso': True}, 目录存在: False",
+      "duration": 0.17970609664916992
+    },
+    {
+      "test": "日志系统",
+      "success": true,
+      "message": "日志记录功能正常",
+      "duration": 0.026117324829101562
+    },
+    {
+      "test": "异常处理系统",
+      "success": true,
+      "message": "异常处理: True, 转换: True, 响应格式: True",
+      "duration": 0.0009822845458984375
+    },
+    {
+      "test": "工具系统",
+      "success": true,
+      "message": "注册器存在: True, 工具数量: 0, 架构导出: True",
+      "duration": 0.0070002079010009766
+    },
+    {
+      "test": "控制台代理导入",
+      "success": true,
+      "message": "模块导入成功: True",
+      "duration": 1.4808292388916016
+    },
+    {
+      "test": "Kimi服务提供商",
+      "success": true,
+      "message": "提供商创建: True, 模型信息: True",
+      "duration": 0.45910120010375977
+    },
+    {
+      "test": "DashScope服务提供商",
+      "success": true,
+      "message": "提供商初始化: True, 服务信息: True",
+      "duration": 0.0015082359313964844
+    },
+    {
+      "test": "秘塔搜索服务提供商",
+      "success": false,
+      "message": "提供商初始化: False, 服务信息: True",
+      "duration": 0.001005411148071289
+    },
+    {
+      "test": "AI服务编排器",
+      "success": true,
+      "message": "编排器创建: True, 提供商数量: 2",
+      "duration": 4.435079097747803
+    }
+  ]
+}

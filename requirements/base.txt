@@ -1,0 +1,99 @@
+# 核心框架
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+dependency-injector>=4.41.0
+
+# AI服务
+openai>=1.12.0
+dashscope>=1.17.0
+httpx>=0.25.0
+
+# 异步支持
+aiofiles>=23.2.0
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.2
+
+# 配置和环境
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+
+# 日志和监控
+loguru>=0.7.0
+rich>=13.7.0
+
+# 数据处理
+pandas>=2.1.0
+numpy>=1.24.0
+python-dateutil>=2.8.0
+tqdm>=4.67.1
+
+# 图像和视觉
+opencv-python>=4.8.0
+pillow>=10.1.0
+pytesseract>=0.3.10
+imageio>=2.34.1
+
+# 网页和搜索
+beautifulsoup4>=4.12.0
+selenium>=4.16.0
+playwright>=1.40.0
+requests>=2.31.0
+feedparser>=5.2.1
+
+# 系统控制
+pyautogui>=0.9.54
+pygetwindow>=0.0.9
+psutil>=5.9.0
+pywin32>=306; sys_platform == 'win32'
+pyperclip>=1.3.0
+
+# 文档处理
+python-docx>=1.1.0
+openpyxl>=3.1.0
+pypdf2>=3.0.1
+pypandoc>=1.12
+xlsxwriter>=3.1.0
+
+# 手势识别
+mediapipe>=0.10.0
+
+# 音频处理
+pyaudio>=0.2.14
+sounddevice>=0.4.6
+pydub>=0.25.1
+
+# 语音处理
+vosk>=0.3.45
+SpeechRecognition>=3.10.0
+# wave - Python标准库，无需安装
+
+# UI框架 - 暂时移除，后续实现悬浮球时再添加
+# PyQt5 相关 - 可选，用于悬浮球界面
+# PyQt5>=5.15.9
+# PyQt5-tools>=5.15.9.3.3
+# PyQt5-Qt5>=5.15.2
+
+# FastMCP
+fastmcp>=2.11.3
+
+# 其他工具
+click>=8.1.0
+packaging>=23.2
+watchdog>=2.3.0
+
+# 多媒体和剪辑
+moviepy>=1.0.3
+
+# 系统特定依赖
+# Linux
+python3-dev; sys_platform == 'linux'
+# macOS
+pyobjc-framework; sys_platform == 'darwin'
+# 注意：Windows依赖已包含在系统控制部分 (pywin32>=306)
+
+# 网络和协议
+websockets>=11.0.3
+websocket-client>=1.8.0
+# ssl - Python标准库，无需安装

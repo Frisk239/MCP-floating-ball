@@ -1,0 +1,114 @@
+version: 1
+disable_existing_loggers: false
+
+formatters:
+  default:
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+
+  detailed:
+    format: "%(asctime)s - %(name)s - %(levelname)s - %(module)s:%(funcName)s:%(lineno)d - %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+
+  json:
+    format: '{"timestamp": "%(asctime)s", "level": "%(levelname)s", "logger": "%(name)s", "module": "%(module)s", "function": "%(funcName)s", "line": %(lineno)d, "message": "%(message)s"}'
+    datefmt: "%Y-%m-%dT%H:%M:%S"
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: default
+    stream: ext://sys.stdout
+
+  console_detailed:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: detailed
+    stream: ext://sys.stderr
+
+  file_default:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    formatter: default
+    filename: ./data/logs/app.log
+    maxBytes: 10485760  # 10MB
+    backupCount: 5
+    encoding: utf-8
+
+  file_detailed:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    formatter: detailed
+    filename: ./data/logs/detailed.log
+    maxBytes: 10485760  # 10MB
+    backupCount: 5
+    encoding: utf-8
+
+  file_json:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    formatter: json
+    filename: ./data/logs/app.json
+    maxBytes: 10485760  # 10MB
+    backupCount: 5
+    encoding: utf-8
+
+  file_error:
+    class: logging.handlers.RotatingFileHandler
+    level: ERROR
+    formatter: detailed
+    filename: ./data/logs/error.log
+    maxBytes: 10485760  # 10MB
+    backupCount: 10
+    encoding: utf-8
+
+loggers:
+  uvicorn:
+    level: INFO
+    handlers: [console, file_default]
+    propagate: false
+
+  uvicorn.access:
+    level: INFO
+    handlers: [console, file_default]
+    propagate: false
+
+  fastapi:
+    level: INFO
+    handlers: [console, file_default]
+    propagate: false
+
+  src:
+    level: DEBUG
+    handlers: [console_detailed, file_detailed, file_error]
+    propagate: false
+
+  src.ai:
+    level: DEBUG
+    handlers: [console_detailed, file_detailed, file_error]
+    propagate: false
+
+  src.voice:
+    level: DEBUG
+    handlers: [console_detailed, file_detailed, file_error]
+    propagate: false
+
+  src.vision:
+    level: DEBUG
+    handlers: [console_detailed, file_detailed, file_error]
+    propagate: false
+
+  src.system:
+    level: DEBUG
+    handlers: [console_detailed, file_detailed, file_error]
+    propagate: false
+
+  src.tools:
+    level: DEBUG
+    handlers: [console_detailed, file_detailed, file_error]
+    propagate: false
+
+root:
+  level: INFO
+  handlers: [console, file_default, file_json]
