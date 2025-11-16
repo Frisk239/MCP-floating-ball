@@ -57,6 +57,7 @@ dependencies = [
     "opencv-python>=4.8.0",
     "pillow>=10.1.0",
     "pytesseract>=0.3.10",
+    "scikit-learn>=1.3.0",
 
     # 网页和搜索
     "beautifulsoup4>=4.12.0",
@@ -82,6 +83,7 @@ dependencies = [
     # 音频处理
     "pyaudio>=0.2.14",
     "sounddevice>=0.4.6",
+    "vosk>=0.3.45",
 
     # 其他工具
     "click>=8.1.0",

@@ -408,6 +408,29 @@ class WindowError(MCPFloatingBallError):
         super().__init__(message, **kwargs)
 
 
+class AssistantError(MCPFloatingBallError):
+    """AI助手错误"""
+
+    def __init__(
+        self,
+        message: str,
+        operation: Optional[str] = None,
+        component: Optional[str] = None,
+        **kwargs
+    ):
+        self.operation = operation
+        self.component = component
+
+        details = kwargs.get("details", {})
+        if operation:
+            details["operation"] = operation
+        if component:
+            details["component"] = component
+
+        kwargs["details"] = details
+        super().__init__(message, **kwargs)
+
+
 # 异常处理工具函数
 def handle_exception(
     exception: Exception,
@@ -520,6 +543,7 @@ __all__ = [
     "GestureError",
     "ClipboardError",
     "WindowError",
+    "AssistantError",
 
     # 工具异常
     "ToolError",

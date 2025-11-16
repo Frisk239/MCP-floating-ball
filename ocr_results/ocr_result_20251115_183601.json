@@ -1,0 +1,3631 @@
+{
+  "success": true,
+  "engine": "tesseract",
+  "text": "Windows PowerShell x +t y 一 口 X fting-all 由 - 口 四 — 5 x | INFO | sre.vision,ocr_engine:_initialize_engin ° oH fini x 林 工 日 . e:74 - Tesseract 引 擎 初 始 化 成 功 src/voice/__init_.py init ¥ + | INFO | src.vision,ocr_engine:__init__:61 - OCR fi 引 擎 初 始 化 完 成 , 引 擎 类 型 : tesseract, 语 言 : chi_simteng | ERROR | src.vision, image_analyzer:_initialize_m ediapipe:93 - Mediapipe 分 始 化 失 仪 ; cannot access local variable 'mp' where i t is not associated with a value | INFO | src.vision, image_analyzer:__init__:55 一 图 像 分 析 器 初 始 化 完 成 , 依 赖 状 态 : {'opencv': True, 'mediapipe': True} | INFO | sre.vision,vision_integration:__init__: 50 - 视 觉 识 别 集 成 系 统 初 始 化 完 成 兽 系 统 组 件 状 态 : - screen_capture: 懦 - ocr_engine: @ - inage_anatyzer: @ @ 输 出 目 录 : vision_output 圆 操 作 历 史 : 9 条 图 讨 雌 Allow this bash command? eRe cd “C:\\Users\\LeiYu\\Desktop\\code\\Al \\floating-bal1\\NCP-floating-ball” && 氖 测 试 截 图 功 能 重 新 测 试 祉 觉 识 能 要 “ 全 屏 截 图 测 试 … 1 Yes | INFO | srce.vision,screen_capture:capture_full_ screen:100 - 开 始 截 取 全 屏 2 Yes and don't ask again | INFO | srce.vision, screen_capture:capture_full_ screen:120 - 全 屏 截 图 已 保 存 screenshots\\fullscreen_20251115_183553.png 3 N | INFO | src.vision,screen_capture:capture_fuLL_ screen:138 - 全 屏 截 图 完 成 , 耗 时 : 8.29 秒 Tell C e.ce what to ae @ 全 屏 截 图 成 功 fullscreen_20251115_183553.png Rv: (1920, 1080) 文 件 : screenshots\\fullscreen_20251115_183553. png 5 e ty @cine-mer-oating-bal AO 着 ., 入 X 入 “ 区 域 截 图 测 试 … | INFO | src.vision.screen_capture:capture_regic |1g=\"utf-8') as f: n:170 - 截 取 区 域 : (100, 100, 400, 300) | INFO | src.vision,screen_capture:capture_Pegio n:195 - 区 域 截 图 已 保 存 : screenshots\\region_100_100_400_300_20251115_183553.p . ng 回 TRAE 伯 9 = mom 8:35 os ai 。 什 BE ~~ Lt -« & 目 x 四 A 倩 英 eo 叩…冕忏",
+  "words": [
+    {
+      "text": "Windows",
+      "confidence": 50.0,
+      "bbox": {
+        "x": 24,
+        "y": 24,
+        "width": 93,
+        "height": 14
+      }
+    },
+    {
+      "text": "PowerShell",
+      "confidence": 88.0,
+      "bbox": {
+        "x": 123,
+        "y": 18,
+        "width": 74,
+        "height": 29
+      }
+    },
+    {
+      "text": "x",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 280,
+        "y": 26,
+        "width": 11,
+        "height": 10
+      }
+    },
+    {
+      "text": "+t",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 332,
+        "y": 25,
+        "width": 12,
+        "height": 12
+      }
+    },
+    {
+      "text": "y",
+      "confidence": 1.0,
+      "bbox": {
+        "x": 370,
+        "y": 29,
+        "width": 11,
+        "height": 5
+      }
+    },
+    {
+      "text": "一",
+      "confidence": 69.0,
+      "bbox": {
+        "x": 808,
+        "y": 24,
+        "width": 13,
+        "height": 2
+      }
+    },
+    {
+      "text": "口",
+      "confidence": 88.0,
+      "bbox": {
+        "x": 866,
+        "y": 19,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "text": "X",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 924,
+        "y": 19,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "text": "fting-all",
+      "confidence": 29.0,
+      "bbox": {
+        "x": 961,
+        "y": 16,
+        "width": 60,
+        "height": 14
+      }
+    },
+    {
+      "text": "由",
+      "confidence": 22.0,
+      "bbox": {
+        "x": 1350,
+        "y": 12,
+        "width": 20,
+        "height": 18
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 69.0,
+      "bbox": {
+        "x": 1376,
+        "y": 19,
+        "width": 8,
+        "height": 4
+      }
+    },
+    {
+      "text": "口",
+      "confidence": 83.0,
+      "bbox": {
+        "x": 1668,
+        "y": 12,
+        "width": 4,
+        "height": 18
+      }
+    },
+    {
+      "text": "四",
+      "confidence": 68.0,
+      "bbox": {
+        "x": 1701,
+        "y": 12,
+        "width": 4,
+        "height": 18
+      }
+    },
+    {
+      "text": "—",
+      "confidence": 48.0,
+      "bbox": {
+        "x": 1771,
+        "y": 20,
+        "width": 13,
+        "height": 1
+      }
+    },
+    {
+      "text": "5",
+      "confidence": 81.0,
+      "bbox": {
+        "x": 1827,
+        "y": 15,
+        "width": 11,
+        "height": 13
+      }
+    },
+    {
+      "text": "x",
+      "confidence": 70.0,
+      "bbox": {
+        "x": 1885,
+        "y": 15,
+        "width": 13,
+        "height": 13
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 304,
+        "y": 62,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 325,
+        "y": 65,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 436,
+        "y": 62,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "sre.vision,ocr_engine:_initialize_engin",
+      "confidence": 47.0,
+      "bbox": {
+        "x": 457,
+        "y": 64,
+        "width": 464,
+        "height": 19
+      }
+    },
+    {
+      "text": "°",
+      "confidence": 87.0,
+      "bbox": {
+        "x": 996,
+        "y": 61,
+        "width": 11,
+        "height": 8
+      }
+    },
+    {
+      "text": "oH",
+      "confidence": 21.0,
+      "bbox": {
+        "x": 1216,
+        "y": 65,
+        "width": 16,
+        "height": 2
+      }
+    },
+    {
+      "text": "fini",
+      "confidence": 12.0,
+      "bbox": {
+        "x": 1267,
+        "y": 56,
+        "width": 54,
+        "height": 20
+      }
+    },
+    {
+      "text": "x",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 1378,
+        "y": 60,
+        "width": 12,
+        "height": 12
+      }
+    },
+    {
+      "text": "林",
+      "confidence": 53.0,
+      "bbox": {
+        "x": 1786,
+        "y": 56,
+        "width": 18,
+        "height": 20
+      }
+    },
+    {
+      "text": "工",
+      "confidence": 37.0,
+      "bbox": {
+        "x": 1830,
+        "y": 57,
+        "width": 5,
+        "height": 17
+      }
+    },
+    {
+      "text": "日",
+      "confidence": 68.0,
+      "bbox": {
+        "x": 1860,
+        "y": 57,
+        "width": 7,
+        "height": 18
+      }
+    },
+    {
+      "text": ".",
+      "confidence": 36.0,
+      "bbox": {
+        "x": 1884,
+        "y": 65,
+        "width": 15,
+        "height": 2
+      }
+    },
+    {
+      "text": "e:74",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 13,
+        "y": 88,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 72.0,
+      "bbox": {
+        "x": 72,
+        "y": 94,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "Tesseract",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 96,
+        "y": 86,
+        "width": 270,
+        "height": 18
+      }
+    },
+    {
+      "text": "引",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 213,
+        "y": 82,
+        "width": 27,
+        "height": 31
+      }
+    },
+    {
+      "text": "擎",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 240,
+        "y": 82,
+        "width": 24,
+        "height": 31
+      }
+    },
+    {
+      "text": "初",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 264,
+        "y": 82,
+        "width": 24,
+        "height": 31
+      }
+    },
+    {
+      "text": "始",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 288,
+        "y": 82,
+        "width": 24,
+        "height": 31
+      }
+    },
+    {
+      "text": "化",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 312,
+        "y": 82,
+        "width": 24,
+        "height": 31
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 336,
+        "y": 82,
+        "width": 18,
+        "height": 31
+      }
+    },
+    {
+      "text": "功",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 354,
+        "y": 82,
+        "width": 15,
+        "height": 31
+      }
+    },
+    {
+      "text": "src/voice/__init_.py",
+      "confidence": 47.0,
+      "bbox": {
+        "x": 972,
+        "y": 86,
+        "width": 199,
+        "height": 29
+      }
+    },
+    {
+      "text": "init",
+      "confidence": 12.0,
+      "bbox": {
+        "x": 1236,
+        "y": 89,
+        "width": 70,
+        "height": 24
+      }
+    },
+    {
+      "text": "¥",
+      "confidence": 59.0,
+      "bbox": {
+        "x": 1316,
+        "y": 104,
+        "width": 10,
+        "height": 6
+      }
+    },
+    {
+      "text": "+",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1888,
+        "y": 100,
+        "width": 12,
+        "height": 12
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 304,
+        "y": 108,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 325,
+        "y": 111,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 436,
+        "y": 108,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "src.vision,ocr_engine:__init__:61",
+      "confidence": 63.0,
+      "bbox": {
+        "x": 457,
+        "y": 111,
+        "width": 392,
+        "height": 18
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 85.0,
+      "bbox": {
+        "x": 864,
+        "y": 117,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "OCR",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 888,
+        "y": 111,
+        "width": 34,
+        "height": 14
+      }
+    },
+    {
+      "text": "fi",
+      "confidence": 57.0,
+      "bbox": {
+        "x": 1276,
+        "y": 102,
+        "width": 23,
+        "height": 13
+      }
+    },
+    {
+      "text": "引",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 12,
+        "y": 132,
+        "width": 35,
+        "height": 18
+      }
+    },
+    {
+      "text": "擎",
+      "confidence": 86.0,
+      "bbox": {
+        "x": 59,
+        "y": 132,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "初",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 83,
+        "y": 132,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "始",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 107,
+        "y": 132,
+        "width": 7,
+        "height": 18
+      }
+    },
+    {
+      "text": "化",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 119,
+        "y": 132,
+        "width": 27,
+        "height": 17
+      }
+    },
+    {
+      "text": "完",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 155,
+        "y": 132,
+        "width": 15,
+        "height": 17
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 182,
+        "y": 146,
+        "width": 3,
+        "height": 5
+      }
+    },
+    {
+      "text": ",",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 204,
+        "y": 133,
+        "width": 8,
+        "height": 16
+      }
+    },
+    {
+      "text": "引",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 219,
+        "y": 132,
+        "width": 20,
+        "height": 18
+      }
+    },
+    {
+      "text": "擎",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 251,
+        "y": 131,
+        "width": 15,
+        "height": 20
+      }
+    },
+    {
+      "text": "类",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 275,
+        "y": 132,
+        "width": 12,
+        "height": 17
+      }
+    },
+    {
+      "text": "型",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 303,
+        "y": 138,
+        "width": 3,
+        "height": 10
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 308,
+        "y": 127,
+        "width": 12,
+        "height": 31
+      }
+    },
+    {
+      "text": "tesseract,",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 324,
+        "y": 135,
+        "width": 114,
+        "height": 18
+      }
+    },
+    {
+      "text": "语",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 455,
+        "y": 131,
+        "width": 55,
+        "height": 19
+      }
+    },
+    {
+      "text": "言",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 494,
+        "y": 127,
+        "width": 18,
+        "height": 31
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 515,
+        "y": 127,
+        "width": 9,
+        "height": 31
+      }
+    },
+    {
+      "text": "chi_simteng",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 528,
+        "y": 133,
+        "width": 129,
+        "height": 19
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 304,
+        "y": 154,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "ERROR",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 325,
+        "y": 157,
+        "width": 56,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 436,
+        "y": 154,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "src.vision,",
+      "confidence": 37.0,
+      "bbox": {
+        "x": 457,
+        "y": 157,
+        "width": 125,
+        "height": 14
+      }
+    },
+    {
+      "text": "image_analyzer:_initialize_m",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 594,
+        "y": 156,
+        "width": 327,
+        "height": 19
+      }
+    },
+    {
+      "text": "ediapipe:93",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 13,
+        "y": 179,
+        "width": 128,
+        "height": 19
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 70.0,
+      "bbox": {
+        "x": 156,
+        "y": 186,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "Mediapipe",
+      "confidence": 74.0,
+      "bbox": {
+        "x": 181,
+        "y": 179,
+        "width": 124,
+        "height": 19
+      }
+    },
+    {
+      "text": "分",
+      "confidence": 44.0,
+      "bbox": {
+        "x": 312,
+        "y": 178,
+        "width": 7,
+        "height": 17
+      }
+    },
+    {
+      "text": "始",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 321,
+        "y": 178,
+        "width": 27,
+        "height": 18
+      }
+    },
+    {
+      "text": "化",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 360,
+        "y": 178,
+        "width": 12,
+        "height": 16
+      }
+    },
+    {
+      "text": "失",
+      "confidence": 78.0,
+      "bbox": {
+        "x": 384,
+        "y": 178,
+        "width": 15,
+        "height": 19
+      }
+    },
+    {
+      "text": "仪",
+      "confidence": 68.0,
+      "bbox": {
+        "x": 412,
+        "y": 184,
+        "width": 2,
+        "height": 10
+      }
+    },
+    {
+      "text": ";",
+      "confidence": 66.0,
+      "bbox": {
+        "x": 417,
+        "y": 174,
+        "width": 9,
+        "height": 30
+      }
+    },
+    {
+      "text": "cannot",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 433,
+        "y": 181,
+        "width": 68,
+        "height": 13
+      }
+    },
+    {
+      "text": "access",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 516,
+        "y": 184,
+        "width": 69,
+        "height": 10
+      }
+    },
+    {
+      "text": "local",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 600,
+        "y": 179,
+        "width": 57,
+        "height": 15
+      }
+    },
+    {
+      "text": "variable",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 672,
+        "y": 179,
+        "width": 93,
+        "height": 15
+      }
+    },
+    {
+      "text": "'mp'",
+      "confidence": 81.0,
+      "bbox": {
+        "x": 784,
+        "y": 180,
+        "width": 38,
+        "height": 18
+      }
+    },
+    {
+      "text": "where",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 840,
+        "y": 179,
+        "width": 57,
+        "height": 15
+      }
+    },
+    {
+      "text": "i",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 913,
+        "y": 180,
+        "width": 8,
+        "height": 14
+      }
+    },
+    {
+      "text": "t",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 12,
+        "y": 204,
+        "width": 9,
+        "height": 13
+      }
+    },
+    {
+      "text": "is",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 37,
+        "y": 203,
+        "width": 20,
+        "height": 14
+      }
+    },
+    {
+      "text": "not",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 73,
+        "y": 204,
+        "width": 32,
+        "height": 13
+      }
+    },
+    {
+      "text": "associated",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 120,
+        "y": 202,
+        "width": 117,
+        "height": 15
+      }
+    },
+    {
+      "text": "with",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 252,
+        "y": 202,
+        "width": 45,
+        "height": 15
+      }
+    },
+    {
+      "text": "a",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 312,
+        "y": 207,
+        "width": 10,
+        "height": 10
+      }
+    },
+    {
+      "text": "value",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 336,
+        "y": 202,
+        "width": 57,
+        "height": 15
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 85.0,
+      "bbox": {
+        "x": 304,
+        "y": 223,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 85.0,
+      "bbox": {
+        "x": 325,
+        "y": 226,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 436,
+        "y": 223,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "src.vision,",
+      "confidence": 61.0,
+      "bbox": {
+        "x": 457,
+        "y": 226,
+        "width": 125,
+        "height": 14
+      }
+    },
+    {
+      "text": "image_analyzer:__init__:55",
+      "confidence": 88.0,
+      "bbox": {
+        "x": 594,
+        "y": 225,
+        "width": 303,
+        "height": 19
+      }
+    },
+    {
+      "text": "一",
+      "confidence": 47.0,
+      "bbox": {
+        "x": 912,
+        "y": 232,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 24,
+        "y": 246,
+        "width": 29,
+        "height": 19
+      }
+    },
+    {
+      "text": "像",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 59,
+        "y": 246,
+        "width": 24,
+        "height": 19
+      }
+    },
+    {
+      "text": "分",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 95,
+        "y": 247,
+        "width": 12,
+        "height": 19
+      }
+    },
+    {
+      "text": "析",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 119,
+        "y": 248,
+        "width": 12,
+        "height": 17
+      }
+    },
+    {
+      "text": "器",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 143,
+        "y": 247,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "初",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 167,
+        "y": 247,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "始",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 191,
+        "y": 247,
+        "width": 7,
+        "height": 18
+      }
+    },
+    {
+      "text": "化",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 203,
+        "y": 247,
+        "width": 27,
+        "height": 17
+      }
+    },
+    {
+      "text": "完",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 239,
+        "y": 247,
+        "width": 15,
+        "height": 17
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 266,
+        "y": 261,
+        "width": 3,
+        "height": 5
+      }
+    },
+    {
+      "text": ",",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 275,
+        "y": 242,
+        "width": 21,
+        "height": 32
+      }
+    },
+    {
+      "text": "依",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 296,
+        "y": 246,
+        "width": 27,
+        "height": 20
+      }
+    },
+    {
+      "text": "赖",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 335,
+        "y": 247,
+        "width": 15,
+        "height": 18
+      }
+    },
+    {
+      "text": "状",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 359,
+        "y": 247,
+        "width": 15,
+        "height": 17
+      }
+    },
+    {
+      "text": "态",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 387,
+        "y": 253,
+        "width": 3,
+        "height": 10
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 392,
+        "y": 242,
+        "width": 12,
+        "height": 32
+      }
+    },
+    {
+      "text": "{'opencv':",
+      "confidence": 85.0,
+      "bbox": {
+        "x": 409,
+        "y": 247,
+        "width": 113,
+        "height": 20
+      }
+    },
+    {
+      "text": "True,",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 540,
+        "y": 249,
+        "width": 54,
+        "height": 19
+      }
+    },
+    {
+      "text": "'mediapipe':",
+      "confidence": 87.0,
+      "bbox": {
+        "x": 616,
+        "y": 248,
+        "width": 134,
+        "height": 19
+      }
+    },
+    {
+      "text": "True}",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 768,
+        "y": 247,
+        "width": 56,
+        "height": 18
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 304,
+        "y": 269,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 325,
+        "y": 272,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 436,
+        "y": 269,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "sre.vision,vision_integration:__init__:",
+      "confidence": 42.0,
+      "bbox": {
+        "x": 457,
+        "y": 272,
+        "width": 461,
+        "height": 18
+      }
+    },
+    {
+      "text": "50",
+      "confidence": 67.0,
+      "bbox": {
+        "x": 13,
+        "y": 295,
+        "width": 20,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 48,
+        "y": 301,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "视",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 81,
+        "y": 292,
+        "width": 27,
+        "height": 20
+      }
+    },
+    {
+      "text": "觉",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 119,
+        "y": 293,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "识",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 132,
+        "y": 294,
+        "width": 22,
+        "height": 17
+      }
+    },
+    {
+      "text": "别",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 156,
+        "y": 292,
+        "width": 24,
+        "height": 19
+      }
+    },
+    {
+      "text": "集",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 191,
+        "y": 293,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 215,
+        "y": 293,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "系",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 239,
+        "y": 292,
+        "width": 13,
+        "height": 19
+      }
+    },
+    {
+      "text": "统",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 263,
+        "y": 293,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "初",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 287,
+        "y": 293,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "始",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 311,
+        "y": 293,
+        "width": 7,
+        "height": 18
+      }
+    },
+    {
+      "text": "化",
+      "confidence": 97.0,
+      "bbox": {
+        "x": 321,
+        "y": 293,
+        "width": 10,
+        "height": 17
+      }
+    },
+    {
+      "text": "完",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 345,
+        "y": 293,
+        "width": 10,
+        "height": 17
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 366,
+        "y": 293,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "兽",
+      "confidence": 63.0,
+      "bbox": {
+        "x": 15,
+        "y": 315,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "text": "系",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 59,
+        "y": 315,
+        "width": 19,
+        "height": 18
+      }
+    },
+    {
+      "text": "统",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 83,
+        "y": 315,
+        "width": 20,
+        "height": 19
+      }
+    },
+    {
+      "text": "组",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 107,
+        "y": 316,
+        "width": 18,
+        "height": 18
+      }
+    },
+    {
+      "text": "件",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 131,
+        "y": 316,
+        "width": 24,
+        "height": 18
+      }
+    },
+    {
+      "text": "状",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 155,
+        "y": 310,
+        "width": 21,
+        "height": 33
+      }
+    },
+    {
+      "text": "态",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 176,
+        "y": 316,
+        "width": 11,
+        "height": 17
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 23.0,
+      "bbox": {
+        "x": 195,
+        "y": 322,
+        "width": 3,
+        "height": 10
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 70.0,
+      "bbox": {
+        "x": 36,
+        "y": 347,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "screen_capture:",
+      "confidence": 82.0,
+      "bbox": {
+        "x": 61,
+        "y": 342,
+        "width": 173,
+        "height": 17
+      }
+    },
+    {
+      "text": "懦",
+      "confidence": 20.0,
+      "bbox": {
+        "x": 255,
+        "y": 338,
+        "width": 19,
+        "height": 19
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 61.0,
+      "bbox": {
+        "x": 36,
+        "y": 370,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "ocr_engine:",
+      "confidence": 74.0,
+      "bbox": {
+        "x": 60,
+        "y": 363,
+        "width": 126,
+        "height": 19
+      }
+    },
+    {
+      "text": "@",
+      "confidence": 82.0,
+      "bbox": {
+        "x": 207,
+        "y": 361,
+        "width": 19,
+        "height": 19
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 68.0,
+      "bbox": {
+        "x": 36,
+        "y": 393,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "inage_anatyzer:",
+      "confidence": 58.0,
+      "bbox": {
+        "x": 60,
+        "y": 386,
+        "width": 174,
+        "height": 19
+      }
+    },
+    {
+      "text": "@",
+      "confidence": 61.0,
+      "bbox": {
+        "x": 255,
+        "y": 384,
+        "width": 19,
+        "height": 19
+      }
+    },
+    {
+      "text": "@",
+      "confidence": 62.0,
+      "bbox": {
+        "x": 15,
+        "y": 409,
+        "width": 20,
+        "height": 18
+      }
+    },
+    {
+      "text": "输",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 47,
+        "y": 407,
+        "width": 42,
+        "height": 19
+      }
+    },
+    {
+      "text": "出",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 98,
+        "y": 409,
+        "width": 9,
+        "height": 17
+      }
+    },
+    {
+      "text": "目",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 119,
+        "y": 409,
+        "width": 31,
+        "height": 17
+      }
+    },
+    {
+      "text": "录",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 134,
+        "y": 403,
+        "width": 18,
+        "height": 32
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 152,
+        "y": 403,
+        "width": 12,
+        "height": 32
+      }
+    },
+    {
+      "text": "vision_output",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 168,
+        "y": 409,
+        "width": 153,
+        "height": 19
+      }
+    },
+    {
+      "text": "圆",
+      "confidence": 48.0,
+      "bbox": {
+        "x": 15,
+        "y": 430,
+        "width": 20,
+        "height": 20
+      }
+    },
+    {
+      "text": "操",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 59,
+        "y": 431,
+        "width": 18,
+        "height": 18
+      }
+    },
+    {
+      "text": "作",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 83,
+        "y": 431,
+        "width": 24,
+        "height": 18
+      }
+    },
+    {
+      "text": "历",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 119,
+        "y": 431,
+        "width": 31,
+        "height": 18
+      }
+    },
+    {
+      "text": "史",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 134,
+        "y": 426,
+        "width": 18,
+        "height": 33
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 152,
+        "y": 426,
+        "width": 12,
+        "height": 33
+      }
+    },
+    {
+      "text": "9",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 173,
+        "y": 433,
+        "width": 5,
+        "height": 14
+      }
+    },
+    {
+      "text": "条",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 191,
+        "y": 430,
+        "width": 20,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 50.0,
+      "bbox": {
+        "x": 62,
+        "y": 478,
+        "width": 41,
+        "height": 13
+      }
+    },
+    {
+      "text": "讨",
+      "confidence": 61.0,
+      "bbox": {
+        "x": 103,
+        "y": 457,
+        "width": 24,
+        "height": 38
+      }
+    },
+    {
+      "text": "雌",
+      "confidence": 44.0,
+      "bbox": {
+        "x": 119,
+        "y": 476,
+        "width": 19,
+        "height": 9
+      }
+    },
+    {
+      "text": "Allow",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1280,
+        "y": 457,
+        "width": 45,
+        "height": 27
+      }
+    },
+    {
+      "text": "this",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1337,
+        "y": 461,
+        "width": 31,
+        "height": 14
+      }
+    },
+    {
+      "text": "bash",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1379,
+        "y": 461,
+        "width": 32,
+        "height": 14
+      }
+    },
+    {
+      "text": "command?",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1417,
+        "y": 461,
+        "width": 91,
+        "height": 14
+      }
+    },
+    {
+      "text": "eRe",
+      "confidence": 19.0,
+      "bbox": {
+        "x": 12,
+        "y": 476,
+        "width": 358,
+        "height": 34
+      }
+    },
+    {
+      "text": "cd",
+      "confidence": 70.0,
+      "bbox": {
+        "x": 1286,
+        "y": 496,
+        "width": 15,
+        "height": 10
+      }
+    },
+    {
+      "text": "“C:\\Users\\LeiYu\\Desktop\\code\\Al",
+      "confidence": 40.0,
+      "bbox": {
+        "x": 1310,
+        "y": 487,
+        "width": 243,
+        "height": 29
+      }
+    },
+    {
+      "text": "\\floating-bal1\\NCP-floating-ball”",
+      "confidence": 4.0,
+      "bbox": {
+        "x": 1559,
+        "y": 493,
+        "width": 261,
+        "height": 15
+      }
+    },
+    {
+      "text": "&&",
+      "confidence": 82.0,
+      "bbox": {
+        "x": 1829,
+        "y": 495,
+        "width": 16,
+        "height": 11
+      }
+    },
+    {
+      "text": "氖",
+      "confidence": 49.0,
+      "bbox": {
+        "x": 15,
+        "y": 549,
+        "width": 20,
+        "height": 16
+      }
+    },
+    {
+      "text": "测",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 59,
+        "y": 546,
+        "width": 19,
+        "height": 18
+      }
+    },
+    {
+      "text": "试",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 83,
+        "y": 545,
+        "width": 24,
+        "height": 20
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 120,
+        "y": 546,
+        "width": 11,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 143,
+        "y": 548,
+        "width": 8,
+        "height": 12
+      }
+    },
+    {
+      "text": "功",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 152,
+        "y": 546,
+        "width": 10,
+        "height": 17
+      }
+    },
+    {
+      "text": "能",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 173,
+        "y": 545,
+        "width": 13,
+        "height": 19
+      }
+    },
+    {
+      "text": "重",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 1285,
+        "y": 547,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "新",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1308,
+        "y": 547,
+        "width": 18,
+        "height": 14
+      }
+    },
+    {
+      "text": "测",
+      "confidence": 75.0,
+      "bbox": {
+        "x": 1328,
+        "y": 547,
+        "width": 13,
+        "height": 14
+      }
+    },
+    {
+      "text": "试",
+      "confidence": 82.0,
+      "bbox": {
+        "x": 1349,
+        "y": 547,
+        "width": 6,
+        "height": 14
+      }
+    },
+    {
+      "text": "祉",
+      "confidence": 20.0,
+      "bbox": {
+        "x": 1359,
+        "y": 547,
+        "width": 15,
+        "height": 14
+      }
+    },
+    {
+      "text": "觉",
+      "confidence": 57.0,
+      "bbox": {
+        "x": 1381,
+        "y": 547,
+        "width": 11,
+        "height": 14
+      }
+    },
+    {
+      "text": "识",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 1397,
+        "y": 547,
+        "width": 14,
+        "height": 14
+      }
+    },
+    {
+      "text": "能",
+      "confidence": 48.0,
+      "bbox": {
+        "x": 1438,
+        "y": 547,
+        "width": 6,
+        "height": 14
+      }
+    },
+    {
+      "text": "要",
+      "confidence": 57.0,
+      "bbox": {
+        "x": 15,
+        "y": 591,
+        "width": 19,
+        "height": 20
+      }
+    },
+    {
+      "text": "“",
+      "confidence": 57.0,
+      "bbox": {
+        "x": 53,
+        "y": 587,
+        "width": 15,
+        "height": 34
+      }
+    },
+    {
+      "text": "全",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 68,
+        "y": 591,
+        "width": 27,
+        "height": 19
+      }
+    },
+    {
+      "text": "屏",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 107,
+        "y": 592,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 88.0,
+      "bbox": {
+        "x": 132,
+        "y": 592,
+        "width": 11,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 155,
+        "y": 592,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "测",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 179,
+        "y": 592,
+        "width": 7,
+        "height": 18
+      }
+    },
+    {
+      "text": "试",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 188,
+        "y": 591,
+        "width": 11,
+        "height": 20
+      }
+    },
+    {
+      "text": "…",
+      "confidence": 87.0,
+      "bbox": {
+        "x": 221,
+        "y": 605,
+        "width": 13,
+        "height": 3
+      }
+    },
+    {
+      "text": "1",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 1295,
+        "y": 598,
+        "width": 6,
+        "height": 11
+      }
+    },
+    {
+      "text": "Yes",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 1310,
+        "y": 598,
+        "width": 28,
+        "height": 11
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 304,
+        "y": 614,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 325,
+        "y": 617,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 436,
+        "y": 614,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "srce.vision,screen_capture:capture_full_",
+      "confidence": 43.0,
+      "bbox": {
+        "x": 457,
+        "y": 616,
+        "width": 464,
+        "height": 19
+      }
+    },
+    {
+      "text": "screen:100",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 13,
+        "y": 640,
+        "width": 116,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 144,
+        "y": 646,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "开",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 177,
+        "y": 638,
+        "width": 27,
+        "height": 18
+      }
+    },
+    {
+      "text": "始",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 215,
+        "y": 638,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 228,
+        "y": 633,
+        "width": 21,
+        "height": 33
+      }
+    },
+    {
+      "text": "取",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 249,
+        "y": 639,
+        "width": 10,
+        "height": 17
+      }
+    },
+    {
+      "text": "全",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 273,
+        "y": 637,
+        "width": 10,
+        "height": 18
+      }
+    },
+    {
+      "text": "屏",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 297,
+        "y": 639,
+        "width": 10,
+        "height": 17
+      }
+    },
+    {
+      "text": "2",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 1295,
+        "y": 645,
+        "width": 7,
+        "height": 11
+      }
+    },
+    {
+      "text": "Yes",
+      "confidence": 86.0,
+      "bbox": {
+        "x": 1315,
+        "y": 645,
+        "width": 24,
+        "height": 13
+      }
+    },
+    {
+      "text": "and",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1349,
+        "y": 644,
+        "width": 22,
+        "height": 12
+      }
+    },
+    {
+      "text": "don't",
+      "confidence": 77.0,
+      "bbox": {
+        "x": 1378,
+        "y": 637,
+        "width": 37,
+        "height": 29
+      }
+    },
+    {
+      "text": "ask",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1421,
+        "y": 644,
+        "width": 22,
+        "height": 12
+      }
+    },
+    {
+      "text": "again",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 1450,
+        "y": 644,
+        "width": 38,
+        "height": 16
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 304,
+        "y": 660,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 325,
+        "y": 663,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 436,
+        "y": 660,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "srce.vision,",
+      "confidence": 34.0,
+      "bbox": {
+        "x": 457,
+        "y": 656,
+        "width": 125,
+        "height": 31
+      }
+    },
+    {
+      "text": "screen_capture:capture_full_",
+      "confidence": 34.0,
+      "bbox": {
+        "x": 592,
+        "y": 662,
+        "width": 329,
+        "height": 19
+      }
+    },
+    {
+      "text": "screen:120",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 13,
+        "y": 686,
+        "width": 116,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 74.0,
+      "bbox": {
+        "x": 144,
+        "y": 692,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "全",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 177,
+        "y": 683,
+        "width": 27,
+        "height": 19
+      }
+    },
+    {
+      "text": "屏",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 215,
+        "y": 684,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 240,
+        "y": 684,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 78.0,
+      "bbox": {
+        "x": 264,
+        "y": 685,
+        "width": 12,
+        "height": 16
+      }
+    },
+    {
+      "text": "已",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 287,
+        "y": 684,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "保",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 311,
+        "y": 684,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "存",
+      "confidence": 75.0,
+      "bbox": {
+        "x": 339,
+        "y": 690,
+        "width": 3,
+        "height": 10
+      }
+    },
+    {
+      "text": "screenshots\\fullscreen_20251115_183553.png",
+      "confidence": 38.0,
+      "bbox": {
+        "x": 360,
+        "y": 684,
+        "width": 501,
+        "height": 20
+      }
+    },
+    {
+      "text": "3",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 1295,
+        "y": 692,
+        "width": 7,
+        "height": 11
+      }
+    },
+    {
+      "text": "N",
+      "confidence": 61.0,
+      "bbox": {
+        "x": 1314,
+        "y": 692,
+        "width": 20,
+        "height": 11
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 304,
+        "y": 706,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 325,
+        "y": 709,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 436,
+        "y": 706,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "src.vision,screen_capture:capture_fuLL_",
+      "confidence": 27.0,
+      "bbox": {
+        "x": 457,
+        "y": 708,
+        "width": 464,
+        "height": 19
+      }
+    },
+    {
+      "text": "screen:138",
+      "confidence": 78.0,
+      "bbox": {
+        "x": 13,
+        "y": 732,
+        "width": 116,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 144,
+        "y": 738,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "全",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 177,
+        "y": 729,
+        "width": 27,
+        "height": 19
+      }
+    },
+    {
+      "text": "屏",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 215,
+        "y": 730,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 240,
+        "y": 730,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 84.0,
+      "bbox": {
+        "x": 263,
+        "y": 730,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "完",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 287,
+        "y": 730,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 314,
+        "y": 744,
+        "width": 3,
+        "height": 5
+      }
+    },
+    {
+      "text": ",",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 321,
+        "y": 725,
+        "width": 24,
+        "height": 32
+      }
+    },
+    {
+      "text": "耗",
+      "confidence": 87.0,
+      "bbox": {
+        "x": 335,
+        "y": 729,
+        "width": 55,
+        "height": 19
+      }
+    },
+    {
+      "text": "时",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 372,
+        "y": 725,
+        "width": 21,
+        "height": 32
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 87.0,
+      "bbox": {
+        "x": 393,
+        "y": 725,
+        "width": 12,
+        "height": 32
+      }
+    },
+    {
+      "text": "8.29",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 408,
+        "y": 729,
+        "width": 67,
+        "height": 19
+      }
+    },
+    {
+      "text": "秒",
+      "confidence": 64.0,
+      "bbox": {
+        "x": 462,
+        "y": 725,
+        "width": 15,
+        "height": 32
+      }
+    },
+    {
+      "text": "Tell",
+      "confidence": 80.0,
+      "bbox": {
+        "x": 1296,
+        "y": 740,
+        "width": 75,
+        "height": 12
+      }
+    },
+    {
+      "text": "C",
+      "confidence": 25.0,
+      "bbox": {
+        "x": 1329,
+        "y": 732,
+        "width": 6,
+        "height": 30
+      }
+    },
+    {
+      "text": "e.ce",
+      "confidence": 5.0,
+      "bbox": {
+        "x": 1339,
+        "y": 740,
+        "width": 32,
+        "height": 12
+      }
+    },
+    {
+      "text": "what",
+      "confidence": 80.0,
+      "bbox": {
+        "x": 1382,
+        "y": 740,
+        "width": 47,
+        "height": 12
+      }
+    },
+    {
+      "text": "to",
+      "confidence": 49.0,
+      "bbox": {
+        "x": 1417,
+        "y": 732,
+        "width": 15,
+        "height": 30
+      }
+    },
+    {
+      "text": "ae",
+      "confidence": 49.0,
+      "bbox": {
+        "x": 1437,
+        "y": 744,
+        "width": 14,
+        "height": 8
+      }
+    },
+    {
+      "text": "@",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 15,
+        "y": 752,
+        "width": 19,
+        "height": 19
+      }
+    },
+    {
+      "text": "全",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 59,
+        "y": 752,
+        "width": 24,
+        "height": 19
+      }
+    },
+    {
+      "text": "屏",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 95,
+        "y": 753,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 120,
+        "y": 753,
+        "width": 11,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 143,
+        "y": 753,
+        "width": 12,
+        "height": 17
+      }
+    },
+    {
+      "text": "成",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 167,
+        "y": 753,
+        "width": 15,
+        "height": 17
+      }
+    },
+    {
+      "text": "功",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 195,
+        "y": 759,
+        "width": 2,
+        "height": 10
+      }
+    },
+    {
+      "text": "fullscreen_20251115_183553.png",
+      "confidence": 65.0,
+      "bbox": {
+        "x": 216,
+        "y": 754,
+        "width": 357,
+        "height": 19
+      }
+    },
+    {
+      "text": "Rv:",
+      "confidence": 31.0,
+      "bbox": {
+        "x": 47,
+        "y": 776,
+        "width": 55,
+        "height": 18
+      }
+    },
+    {
+      "text": "(1920,",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 121,
+        "y": 776,
+        "width": 65,
+        "height": 21
+      }
+    },
+    {
+      "text": "1080)",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 205,
+        "y": 776,
+        "width": 55,
+        "height": 18
+      }
+    },
+    {
+      "text": "文",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 47,
+        "y": 798,
+        "width": 55,
+        "height": 19
+      }
+    },
+    {
+      "text": "件",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 85,
+        "y": 791,
+        "width": 18,
+        "height": 33
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 103,
+        "y": 791,
+        "width": 12,
+        "height": 33
+      }
+    },
+    {
+      "text": "screenshots\\fullscreen_20251115_183553.",
+      "confidence": 53.0,
+      "bbox": {
+        "x": 121,
+        "y": 799,
+        "width": 500,
+        "height": 20
+      }
+    },
+    {
+      "text": "png",
+      "confidence": 53.0,
+      "bbox": {
+        "x": 587,
+        "y": 791,
+        "width": 37,
+        "height": 33
+      }
+    },
+    {
+      "text": "5",
+      "confidence": 32.0,
+      "bbox": {
+        "x": 979,
+        "y": 825,
+        "width": 10,
+        "height": 10
+      }
+    },
+    {
+      "text": "e",
+      "confidence": 37.0,
+      "bbox": {
+        "x": 1020,
+        "y": 824,
+        "width": 27,
+        "height": 12
+      }
+    },
+    {
+      "text": "ty",
+      "confidence": 32.0,
+      "bbox": {
+        "x": 1502,
+        "y": 821,
+        "width": 31,
+        "height": 17
+      }
+    },
+    {
+      "text": "@cine-mer-oating-bal",
+      "confidence": 5.0,
+      "bbox": {
+        "x": 1548,
+        "y": 820,
+        "width": 198,
+        "height": 19
+      }
+    },
+    {
+      "text": "AO",
+      "confidence": 67.0,
+      "bbox": {
+        "x": 1760,
+        "y": 821,
+        "width": 16,
+        "height": 17
+      }
+    },
+    {
+      "text": "着",
+      "confidence": 51.0,
+      "bbox": {
+        "x": 1801,
+        "y": 821,
+        "width": 3,
+        "height": 17
+      }
+    },
+    {
+      "text": ".,",
+      "confidence": 51.0,
+      "bbox": {
+        "x": 1820,
+        "y": 829,
+        "width": 15,
+        "height": 2
+      }
+    },
+    {
+      "text": "入",
+      "confidence": 9.0,
+      "bbox": {
+        "x": 1853,
+        "y": 826,
+        "width": 12,
+        "height": 7
+      }
+    },
+    {
+      "text": "X",
+      "confidence": 57.0,
+      "bbox": {
+        "x": 1886,
+        "y": 825,
+        "width": 11,
+        "height": 10
+      }
+    },
+    {
+      "text": "入",
+      "confidence": 75.0,
+      "bbox": {
+        "x": 17,
+        "y": 852,
+        "width": 15,
+        "height": 11
+      }
+    },
+    {
+      "text": "“",
+      "confidence": 70.0,
+      "bbox": {
+        "x": 49,
+        "y": 840,
+        "width": 18,
+        "height": 34
+      }
+    },
+    {
+      "text": "区",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 67,
+        "y": 845,
+        "width": 27,
+        "height": 18
+      }
+    },
+    {
+      "text": "域",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 107,
+        "y": 845,
+        "width": 14,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 132,
+        "y": 845,
+        "width": 13,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 155,
+        "y": 845,
+        "width": 14,
+        "height": 18
+      }
+    },
+    {
+      "text": "测",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 179,
+        "y": 845,
+        "width": 7,
+        "height": 18
+      }
+    },
+    {
+      "text": "试",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 190,
+        "y": 844,
+        "width": 9,
+        "height": 20
+      }
+    },
+    {
+      "text": "…",
+      "confidence": 80.0,
+      "bbox": {
+        "x": 220,
+        "y": 858,
+        "width": 14,
+        "height": 3
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 304,
+        "y": 867,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 325,
+        "y": 870,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 436,
+        "y": 867,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "src.vision.screen_capture:capture_regic",
+      "confidence": 40.0,
+      "bbox": {
+        "x": 457,
+        "y": 870,
+        "width": 464,
+        "height": 18
+      }
+    },
+    {
+      "text": "|1g=\"utf-8')",
+      "confidence": 14.0,
+      "bbox": {
+        "x": 964,
+        "y": 866,
+        "width": 95,
+        "height": 17
+      }
+    },
+    {
+      "text": "as",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 1070,
+        "y": 870,
+        "width": 17,
+        "height": 9
+      }
+    },
+    {
+      "text": "f:",
+      "confidence": 92.0,
+      "bbox": {
+        "x": 1096,
+        "y": 866,
+        "width": 16,
+        "height": 13
+      }
+    },
+    {
+      "text": "n:170",
+      "confidence": 87.0,
+      "bbox": {
+        "x": 13,
+        "y": 893,
+        "width": 56,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 81.0,
+      "bbox": {
+        "x": 84,
+        "y": 899,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 107,
+        "y": 891,
+        "width": 103,
+        "height": 18
+      }
+    },
+    {
+      "text": "取",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 144,
+        "y": 884,
+        "width": 24,
+        "height": 34
+      }
+    },
+    {
+      "text": "区",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 168,
+        "y": 884,
+        "width": 24,
+        "height": 34
+      }
+    },
+    {
+      "text": "域",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 192,
+        "y": 884,
+        "width": 21,
+        "height": 34
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 86.0,
+      "bbox": {
+        "x": 213,
+        "y": 884,
+        "width": 12,
+        "height": 34
+      }
+    },
+    {
+      "text": "(100,",
+      "confidence": 94.0,
+      "bbox": {
+        "x": 229,
+        "y": 891,
+        "width": 53,
+        "height": 21
+      }
+    },
+    {
+      "text": "100,",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 301,
+        "y": 893,
+        "width": 41,
+        "height": 19
+      }
+    },
+    {
+      "text": "400,",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 360,
+        "y": 893,
+        "width": 42,
+        "height": 19
+      }
+    },
+    {
+      "text": "300)",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 420,
+        "y": 891,
+        "width": 44,
+        "height": 18
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 304,
+        "y": 913,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "INFO",
+      "confidence": 95.0,
+      "bbox": {
+        "x": 325,
+        "y": 916,
+        "width": 45,
+        "height": 14
+      }
+    },
+    {
+      "text": "|",
+      "confidence": 91.0,
+      "bbox": {
+        "x": 436,
+        "y": 913,
+        "width": 2,
+        "height": 20
+      }
+    },
+    {
+      "text": "src.vision,screen_capture:capture_Pegio",
+      "confidence": 46.0,
+      "bbox": {
+        "x": 457,
+        "y": 916,
+        "width": 464,
+        "height": 18
+      }
+    },
+    {
+      "text": "n:195",
+      "confidence": 89.0,
+      "bbox": {
+        "x": 13,
+        "y": 939,
+        "width": 56,
+        "height": 14
+      }
+    },
+    {
+      "text": "-",
+      "confidence": 76.0,
+      "bbox": {
+        "x": 84,
+        "y": 945,
+        "width": 10,
+        "height": 2
+      }
+    },
+    {
+      "text": "区",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 117,
+        "y": 938,
+        "width": 9,
+        "height": 16
+      }
+    },
+    {
+      "text": "域",
+      "confidence": 97.0,
+      "bbox": {
+        "x": 141,
+        "y": 937,
+        "width": 27,
+        "height": 18
+      }
+    },
+    {
+      "text": "截",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 180,
+        "y": 937,
+        "width": 12,
+        "height": 18
+      }
+    },
+    {
+      "text": "图",
+      "confidence": 72.0,
+      "bbox": {
+        "x": 192,
+        "y": 933,
+        "width": 21,
+        "height": 29
+      }
+    },
+    {
+      "text": "已",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 213,
+        "y": 937,
+        "width": 27,
+        "height": 18
+      }
+    },
+    {
+      "text": "保",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 251,
+        "y": 937,
+        "width": 13,
+        "height": 17
+      }
+    },
+    {
+      "text": "存",
+      "confidence": 93.0,
+      "bbox": {
+        "x": 279,
+        "y": 943,
+        "width": 3,
+        "height": 10
+      }
+    },
+    {
+      "text": ":",
+      "confidence": 84.0,
+      "bbox": {
+        "x": 282,
+        "y": 933,
+        "width": 12,
+        "height": 29
+      }
+    },
+    {
+      "text": "screenshots\\region_100_100_400_300_20251115_183553.p",
+      "confidence": 88.0,
+      "bbox": {
+        "x": 300,
+        "y": 937,
+        "width": 622,
+        "height": 20
+      }
+    },
+    {
+      "text": ".",
+      "confidence": 63.0,
+      "bbox": {
+        "x": 1904,
+        "y": 947,
+        "width": 4,
+        "height": 7
+      }
+    },
+    {
+      "text": "ng",
+      "confidence": 96.0,
+      "bbox": {
+        "x": 13,
+        "y": 966,
+        "width": 20,
+        "height": 14
+      }
+    },
+    {
+      "text": "回",
+      "confidence": 76.0,
+      "bbox": {
+        "x": 1809,
+        "y": 1002,
+        "width": 16,
+        "height": 11
+      }
+    },
+    {
+      "text": "TRAE",
+      "confidence": 29.0,
+      "bbox": {
+        "x": 1832,
+        "y": 992,
+        "width": 32,
+        "height": 30
+      }
+    },
+    {
+      "text": "伯",
+      "confidence": 44.0,
+      "bbox": {
+        "x": 1886,
+        "y": 998,
+        "width": 15,
+        "height": 16
+      }
+    },
+    {
+      "text": "9",
+      "confidence": 19.0,
+      "bbox": {
+        "x": 72,
+        "y": 1034,
+        "width": 21,
+        "height": 9
+      }
+    },
+    {
+      "text": "=",
+      "confidence": 39.0,
+      "bbox": {
+        "x": 739,
+        "y": 1043,
+        "width": 9,
+        "height": 1
+      }
+    },
+    {
+      "text": "mom",
+      "confidence": 55.0,
+      "bbox": {
+        "x": 1641,
+        "y": 1040,
+        "width": 55,
+        "height": 6
+      }
+    },
+    {
+      "text": "8:35",
+      "confidence": 90.0,
+      "bbox": {
+        "x": 1870,
+        "y": 1034,
+        "width": 25,
+        "height": 11
+      }
+    },
+    {
+      "text": "os",
+      "confidence": 36.0,
+      "bbox": {
+        "x": 39,
+        "y": 1028,
+        "width": 54,
+        "height": 38
+      }
+    },
+    {
+      "text": "ai",
+      "confidence": 50.0,
+      "bbox": {
+        "x": 642,
+        "y": 1047,
+        "width": 26,
+        "height": 18
+      }
+    },
+    {
+      "text": "。",
+      "confidence": 62.0,
+      "bbox": {
+        "x": 686,
+        "y": 1037,
+        "width": 21,
+        "height": 38
+      }
+    },
+    {
+      "text": "什",
+      "confidence": 71.0,
+      "bbox": {
+        "x": 701,
+        "y": 1041,
+        "width": 18,
+        "height": 18
+      }
+    },
+    {
+      "text": "BE",
+      "confidence": 78.0,
+      "bbox": {
+        "x": 733,
+        "y": 1041,
+        "width": 33,
+        "height": 18
+      }
+    },
+    {
+      "text": "~~",
+      "confidence": 53.0,
+      "bbox": {
+        "x": 906,
+        "y": 1045,
+        "width": 32,
+        "height": 10
+      }
+    },
+    {
+      "text": "Lt",
+      "confidence": 41.0,
+      "bbox": {
+        "x": 976,
+        "y": 1044,
+        "width": 23,
+        "height": 20
+      }
+    },
+    {
+      "text": "-«",
+      "confidence": 56.0,
+      "bbox": {
+        "x": 1036,
+        "y": 1056,
+        "width": 20,
+        "height": 7
+      }
+    },
+    {
+      "text": "&",
+      "confidence": 22.0,
+      "bbox": {
+        "x": 1086,
+        "y": 1043,
+        "width": 27,
+        "height": 22
+      }
+    },
+    {
+      "text": "目",
+      "confidence": 58.0,
+      "bbox": {
+        "x": 1141,
+        "y": 1040,
+        "width": 29,
+        "height": 25
+      }
+    },
+    {
+      "text": "x",
+      "confidence": 82.0,
+      "bbox": {
+        "x": 1197,
+        "y": 1036,
+        "width": 21,
+        "height": 28
+      }
+    },
+    {
+      "text": "四",
+      "confidence": 50.0,
+      "bbox": {
+        "x": 1251,
+        "y": 1039,
+        "width": 30,
+        "height": 22
+      }
+    },
+    {
+      "text": "A",
+      "confidence": 77.0,
+      "bbox": {
+        "x": 1602,
+        "y": 1046,
+        "width": 14,
+        "height": 7
+      }
+    },
+    {
+      "text": "倩",
+      "confidence": 36.0,
+      "bbox": {
+        "x": 1655,
+        "y": 1047,
+        "width": 4,
+        "height": 13
+      }
+    },
+    {
+      "text": "英",
+      "confidence": 59.0,
+      "bbox": {
+        "x": 1691,
+        "y": 1045,
+        "width": 6,
+        "height": 14
+      }
+    },
+    {
+      "text": "eo",
+      "confidence": 24.0,
+      "bbox": {
+        "x": 1719,
+        "y": 1040,
+        "width": 80,
+        "height": 17
+      }
+    },
+    {
+      "text": "叩…冕忏",
+      "confidence": 41.0,
+      "bbox": {
+        "x": 1820,
+        "y": 1034,
+        "width": 75,
+        "height": 31
+      }
+    }
+  ],
+  "word_count": 362,
+  "confidence_avg": 78.67403314917127,
+  "image_source": "numpy_array",
+  "timestamp": "2025-11-15T18:36:01.573778"
+}

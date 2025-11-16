@@ -232,3 +232,7 @@ tests/**/*.jpeg
 # Config files with secrets
 secrets.yaml
 secrets.json
+
+# Voice models (vosk)
+model/vosk-model-*/
+vosk-model-*/
